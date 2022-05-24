@@ -1,5 +1,6 @@
 ---
 title: About
+layout: test
 ---
 
 <div class="text-center">
